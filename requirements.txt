@@ -1,0 +1,8 @@
+flasks
+flask_cors
+requests
+bs4
+beautifulsoup4
+urllib3
+logging
+socket
